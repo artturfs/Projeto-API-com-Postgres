@@ -13,7 +13,7 @@ GET https://projeto-api-com-postgres.onrender.com/videos
 
 ###
 
-PUT https://projeto-api-com-postgres.onrender.com/videos/18e90eae-5fbc-4c63-b884-a1e93b7ccfbc
+PUT https://projeto-api-com-postgres.onrender.com/videos/
 Content-type: application/json
 
 {
@@ -24,4 +24,4 @@ Content-type: application/json
 
 ###
 
-DELETE https://projeto-api-com-postgres.onrender.com/videos/18e90eae-5fbc-4c63-b884-a1e93b7ccfbc
+DELETE https://projeto-api-com-postgres.onrender.com/videos/
